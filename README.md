@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello there...
 
-<!--
-**sohanp98/sohanp98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my **student GitHub account** for academic work at Northeastern University.
 
-Here are some ideas to get you started:
+## 🔗 Main GitHub Account
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For my personal projects and professional work, please visit:
+
+**[@roarceus](https://github.com/roarceus)** ⭐
+
+---
+
+### 📚 About This Account
+
+This account is used for:
+- University coursework and assignments
+- Academic projects and collaborations
+- Student organization contributions
+
+### 💼 About My Main Account
+
+My personal account contains:
+- Professional projects and open-source contributions
+- Cloud-native AI systems development
+- DevOps and infrastructure automation work
+- Production-ready repositories
+
+---
+
+**📫 Connect with me:** Visit [@roarceus](https://github.com/roarceus) for contact information and links.
