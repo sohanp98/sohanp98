@@ -23,7 +23,6 @@ My personal account contains:
 - Professional projects and open-source contributions
 - Cloud-native AI systems development
 - DevOps and infrastructure automation work
-- Production-ready repositories
 
 ---
 
